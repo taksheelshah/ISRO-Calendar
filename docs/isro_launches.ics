@@ -35,7 +35,7 @@ LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GSLV Mk II | GISAT-1A (EOS-05)
-DTSTART;VALUE=DATE:20260331
+DTSTART;VALUE=DATE:20261231
 UID:17d0ec68-f466-4916-9dc5-16123eda6484
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A 
  (GEO Imaging Satellite) is an Indian earth observing satellite operating f
@@ -123,5 +123,22 @@ DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (G
  SLV Mk III)\n\nSecond uncrewed orbital test flight of the Gaganyaan capsul
  e.
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LVM-3 | Gaganyaan-3
+DTSTART;VALUE=DATE:20261231
+UID:f2b6ed2a-0f6a-4d19-a436-d387319ff52d
+DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (G
+ SLV Mk III)\n\nThird uncrewed orbital test flight of the Gaganyaan capsule
+ .
+LOCATION:Satish Dhawan Space Centre Second Launch Pad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miura 5 | Maiden Flight
+DTSTART;VALUE=DATE:20261231
+UID:a8c191e1-b231-4b2e-aefd-5e8ad55c7a82
+DESCRIPTION:[Payload Aerospace S.L.]\nMiura 5\n\nFirst flight of the Miura
+  5 launch vehicle.
+LOCATION:Diamant Launch Area
 END:VEVENT
 END:VCALENDAR
