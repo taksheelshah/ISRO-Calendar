@@ -190,4 +190,27 @@ DESCRIPTION:[Indian Space Research Organization]\nPSLV-CA\n\nAstroscale's
  d characterization capabilities
 LOCATION:Unknown Pad
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SSLV | AayulSAT-1A & others
+DTSTART;VALUE=DATE:20261031
+UID:e59ff9a4-f72f-4841-8546-3c94346ecdba
+DESCRIPTION:[Indian Space Research Organization]\nSSLV\n\nRide-share launc
+ h of multiple satellites\, including the in-orbit refueling demonstration 
+ satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities 
+ TBD.
+LOCATION:Satish Dhawan Space Centre First Launch Pad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SSLV | SBS-3
+DTSTART;VALUE=DATE:20270331
+UID:a8efd555-af1c-43c6-9986-968175c4c6da
+DESCRIPTION:[Indian Space Research Organization]\nSSLV\n\nPossibly prototy
+ pe satellite for the Indian Space Research Organization (ISRO)'s Satellite
+  Based Surveillance-3 (SBS-3) program\, which aims to provide better land 
+ and maritime domain awareness for civilian and military applications for t
+ he Indian government. The SBS-3 constellation will consist of up to 52 sat
+ ellites in Low Earth and geostationary orbits.\n\nSafran Space of France w
+ ill provide optical payloads for at least some of the satellites.
+LOCATION:Satish Dhawan Space Centre First Launch Pad
+END:VEVENT
 END:VCALENDAR
