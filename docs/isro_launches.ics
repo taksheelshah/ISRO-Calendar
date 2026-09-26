@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 SUMMARY:PSLV-XL | EOS-10 (Oceansat-3A)
-DTSTART;VALUE=DATE:20260331
+DTSTART;VALUE=DATE:20270131
 UID:90232cff-15ff-4755-8a56-4ed544767665
 DESCRIPTION:[Indian Space Research Organization]\nPSLV XL\n\nOceansat-3A i
  s a part of ISRO's Oceansat program. Its main purpose is ocean observation
@@ -27,7 +27,7 @@ DESCRIPTION:[Indian Space Research Organization]\nPSLV-DL\n\nSmall Earth o
 LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LVM-3 | GSAT-32
+SUMMARY:LVM-3 | GSAT-32 (GSAT-N3)
 DTSTART;VALUE=DATE:20261231
 UID:0cf92611-82a8-4095-a0b4-dda2e74b1fff
 DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (G
@@ -50,21 +50,21 @@ DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nGISAT-1A
 LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PSLV | TDS-01
-DTSTART;VALUE=DATE:20261231
+SUMMARY:PSLV-XL | TDS-01
+DTSTART;VALUE=DATE:20261130
 UID:b5a9bccb-30d7-4af6-8ad1-fabb563be53c
-DESCRIPTION:[Indian Space Research Organization]\nPSLV\n\nTDS-01 (Technolo
- gy Demonstration Satellite-01) is an Indian geostationary orbit technology
-  demonstration satellite carrying payloads for the Indian Space Research O
- rganisation (ISRO)’s Institute of Plasma Research\, Gandhinagar and the 
- CSIR-CEERI\, Pilani. \n\nPayloads to be tested included an internally deve
- loped 300 mN electric powered thrusters\, atomic clocks\, travelling wave 
- tube amplifiers (TWTA) & a quantum communication suite (QuTDS).
+DESCRIPTION:[Indian Space Research Organization]\nPSLV XL\n\nTDS-01 (Techn
+ ology Demonstration Satellite-01) is an Indian geostationary orbit technol
+ ogy demonstration satellite carrying payloads for the Indian Space Researc
+ h Organisation (ISRO)’s Institute of Plasma Research\, Gandhinagar and t
+ he CSIR-CEERI\, Pilani. \n\nPayloads to be tested included an internally d
+ eveloped 300 mN electric powered thrusters\, atomic clocks\, travelling wa
+ ve tube amplifiers (TWTA) & a quantum communication suite (QuTDS).
 LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LVM-3 | Gaganyaan-1
-DTSTART;VALUE=DATE:20261231
+DTSTART;VALUE=DATE:20261130
 UID:dfac5ab7-7017-454f-b6cf-eeed277a97b5
 DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (G
  SLV Mk III)\n\nFirst uncrewed orbital test flight of the Gaganyaan capsule
@@ -92,7 +92,7 @@ LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GSLV Mk II | IDRSS-1
-DTSTART;VALUE=DATE:20261231
+DTSTART;VALUE=DATE:20271231
 UID:c101b9da-2165-4d7b-aa9e-12a965ef8cd2
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThe India
  n Data Relay Satellite System (IDRSS) is a planned system of 2 geostationa
@@ -121,7 +121,7 @@ LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GSLV Mk II | IDRSS-2
-DTSTART;VALUE=DATE:20261231
+DTSTART;VALUE=DATE:20271231
 UID:220e6d9f-33dc-4533-8a48-535ba4c559e2
 DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThe India
  n Data Relay Satellite System (IDRSS) is a planned system of 2 geostationa
@@ -177,5 +177,17 @@ DESCRIPTION:[Indian Space Research Organization]\nPSLV\n\nRISAT-2A is the
  es a sophisticated synthetic aperture radar that operates at 5.35 GHz in C
   band.
 LOCATION:Satish Dhawan Space Centre First Launch Pad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSLV-CA | ISSA-J1
+DTSTART;VALUE=DATE:20270630
+UID:13db71e3-2f7e-4a95-8d51-b096bac36e74
+DESCRIPTION:[Indian Space Research Organization]\nPSLV-CA\n\nAstroscale's 
+ ISSA-J1 (In-situ Space Situational Awareness-Japan 1) mission will diagnos
+ e and inspect two large satellite debris in orbit by imaging and diagnosin
+ g them in close proximity after rendezvous. The satellite is built on Astr
+ oscale’s heritage in rendezvous and proximity operations\, inspection an
+ d characterization capabilities
+LOCATION:Unknown Pad
 END:VEVENT
 END:VCALENDAR
