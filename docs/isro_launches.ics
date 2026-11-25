@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 SUMMARY:PSLV-XL | EOS-10 (Oceansat-3A)
-DTSTART;VALUE=DATE:20270131
+DTSTART;VALUE=DATE:20270331
 UID:90232cff-15ff-4755-8a56-4ed544767665
 DESCRIPTION:[Indian Space Research Organization]\nPSLV XL\n\nOceansat-3A i
  s a part of ISRO's Oceansat program. Its main purpose is ocean observation
@@ -51,7 +51,7 @@ LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSLV-XL | TDS-01
-DTSTART;VALUE=DATE:20261231
+DTSTART;VALUE=DATE:20270331
 UID:b5a9bccb-30d7-4af6-8ad1-fabb563be53c
 DESCRIPTION:[Indian Space Research Organization]\nPSLV XL\n\nTDS-01 (Techn
  ology Demonstration Satellite-01) is an Indian geostationary orbit technol
@@ -64,7 +64,7 @@ LOCATION:Satish Dhawan Space Centre First Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LVM-3 | Gaganyaan-1
-DTSTART;VALUE=DATE:20261231
+DTSTART;VALUE=DATE:20270331
 UID:dfac5ab7-7017-454f-b6cf-eeed277a97b5
 DESCRIPTION:[Indian Space Research Organization]\nLaunch Vehicle Mark-3 (G
  SLV Mk III)\n\nFirst uncrewed orbital test flight of the Gaganyaan capsule
@@ -73,7 +73,7 @@ LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gaganyaan Abort Test Booster | TV-D2
-DTSTART;VALUE=DATE:20261231
+DTSTART;VALUE=DATE:20271231
 UID:05864985-e660-4723-b489-32a78d4b53fc
 DESCRIPTION:[Indian Space Research Organization]\nGaganyaan Abort Test Boo
  ster\n\nThe second inflight abort test of the Gaganyaan program.
@@ -213,5 +213,16 @@ DESCRIPTION:[Indian Space Research Organization]\nSSLV\n\nPossibly prototy
  ellites in Low Earth and geostationary orbits.\n\nSafran Space of France w
  ill provide optical payloads for at least some of the satellites.
 LOCATION:Satish Dhawan Space Centre First Launch Pad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GSLV Mk II | IRNSS-1M (NVS-04)
+DTSTART;VALUE=DATE:20271231
+UID:e72fc491-c2ea-4f17-aa48-749ce4115bfd
+DESCRIPTION:[Indian Space Research Organization]\nGSLV Mk. II\n\nThis is a
+  replacement satellite for the Indian Regional Navigation Satellite System
+ . The constellation will provide India with an alternative to GPS and will
+  be used for military and civilian use. Located at a geosynchronous orbit\
+ , the system will be operated by the Indian government.
+LOCATION:Satish Dhawan Space Centre Second Launch Pad
 END:VEVENT
 END:VCALENDAR
